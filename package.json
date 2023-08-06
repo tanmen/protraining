@@ -6,5 +6,8 @@
     "sample:step1": "node src/samples/step1.js"
   },
   "author": "tanmen",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
 }

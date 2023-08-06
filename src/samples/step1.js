@@ -8,3 +8,9 @@ console.log('for')
 for (const datum of data) {
     console.log(datum)
 }
+
+console.log('for i')
+for (let i = 0; i < data.length; i++) {
+    console.log(data[i]);
+}
+
