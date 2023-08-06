@@ -1,0 +1,10 @@
+{
+  "name": "protraining",
+  "version": "1.0.0",
+  "description": "プログラミングトレーニング",
+  "scripts": {
+    "step1": "node step1.js"
+  },
+  "author": "tanmen",
+  "license": "MIT"
+}
