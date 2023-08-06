@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "プログラミングトレーニング",
   "scripts": {
-    "step1": "node step1.js"
+    "sample:step1": "node src/samples/step1.js"
   },
   "author": "tanmen",
   "license": "MIT"
