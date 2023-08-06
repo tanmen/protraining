@@ -1,13 +1,15 @@
 {
   "name": "protraining",
   "version": "1.0.0",
+  "type": "module",
   "description": "プログラミングトレーニング",
   "scripts": {
-    "sample:step1": "node src/samples/step1.js"
+    "sample:step1": "node src/samples/step1.js",
+    "step1": "vitest step1"
   },
   "author": "tanmen",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^29.6.2"
+    "vitest": "^0.34.1"
   }
 }
